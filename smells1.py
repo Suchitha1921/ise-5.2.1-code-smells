@@ -21,5 +21,6 @@ def calculate_total_price(items):
         total *= 0.9
     return total
 
+
 if __name__ == "__main__":
     print("run `pytest tests/smells1_test.py` instead.")
